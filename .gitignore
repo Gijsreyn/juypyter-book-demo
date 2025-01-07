@@ -1,5 +1,5 @@
 # Jupyter Book (via myst) build outputs
 _build
 **/.venv
-
+/venv
 .DS_Store
